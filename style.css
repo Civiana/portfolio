@@ -26,10 +26,10 @@ body{
 
 .topnav a:hover{
     transition: 0.2s;
-    background-color: rgb(169, 243, 255);
+    background-color: #3b8f77;
     margin: 2%;
     font-size: 25px;
-    color: black;
+    color: white;
 }
 
 .introduction{
